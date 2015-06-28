@@ -1,0 +1,60 @@
+TACC: Starting up job 5241616
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+NROWS: 512
+NCOLS: 512
+NPROC: 1
+NREPS: 1
+RSIZE: 512
+CSIZE: 512
+GE algorithm took 0.025494 seconds
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5241616
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+NROWS: 1024
+NCOLS: 1024
+NPROC: 4
+NREPS: 256
+RSIZE: 1024
+CSIZE: 1
+GE algorithm took 0.059423 seconds
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5241616
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+NROWS: 2048
+NCOLS: 2048
+NPROC: 16
+NREPS: 128
+RSIZE: 2048
+CSIZE: 1
+GE algorithm took 0.160332 seconds
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5241616
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+NROWS: 4096
+NCOLS: 4096
+NPROC: 64
+NREPS: 64
+RSIZE: 4096
+CSIZE: 1
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.
+TACC: Starting up job 5241616
+TACC: Setting up parallel environment for MVAPICH2+mpispawn.
+TACC: Starting parallel tasks...
+NROWS: 8192
+NCOLS: 8192
+NPROC: 256
+NREPS: 32
+RSIZE: 8192
+CSIZE: 1
+TACC: MPI job exited with code: 1
+ 
+TACC: Shutdown complete. Exiting.

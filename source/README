@@ -1,0 +1,19 @@
+Gaussian Elimination in Parallel
+Author: Prashant Mital
+README
+---------------------------------------------------------------
+The final code resides in 'final' and 'final_pivoting' directories.
+Other version of the code have been included in the repository
+for future use. However, I would not be surprised if some of
+these version are broken. 
+
+To run the code please follow these instructions:
+
+make clean
+make 
+ibrun -np <np> main.out nrows <nr> ncols <nc> nproc <np> nreps <nr>
+
+Please refer to the write up for a brief description of what
+each parameter does. All parameters to main.out MUST be supplied.
+Running the program without the correct parameters specified
+will print a brief usage message.  
