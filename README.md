@@ -6,3 +6,5 @@ This implementation provides a good parallel algorithm for Gaussian Elimination.
 2D-mapping support and improved exception handling is necessary to address known issues with robustness and scalability.
 
 See enclosed report for details.
+
+prashantmital@gmail.com
